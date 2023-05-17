@@ -1,0 +1,21 @@
+/* debug */
+
+.border-one {
+    border: dashed 1px rgb(38, 0, 255);
+}
+
+.border-secondary {
+    border: dashed 1px lightgreen;
+ 
+}
+.border-col {
+    border: dashed 1px orange;
+}
+
+.border-row {
+    border: dashed 1px green;
+}
+
+
+
+
