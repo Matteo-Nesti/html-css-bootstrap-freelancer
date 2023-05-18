@@ -77,5 +77,15 @@
     border-radius: 0;
 }
 
+.top-footer .i-cont {
+    display: inline-block;
+    height: 45px;
+    width: 45px;
+    margin: 0 .3rem;
+}
 
+.top-footer i {
+    line-height: 45px;
+    font-size: 1rem;
+}
 
