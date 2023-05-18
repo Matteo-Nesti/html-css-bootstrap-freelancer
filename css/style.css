@@ -16,6 +16,16 @@
     border: dashed 1px green;
 }
 
+/* utility */
+
+.bg-blue {
+    background-color: #2c3e50;
+}
 
 
+/* header */
+
+#myHeader a {
+    color: #fff;
+}
 
