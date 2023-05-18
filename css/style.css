@@ -26,6 +26,11 @@
     background-color: #1abc9c;
 }
 
+.btnSend {
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+}
+
 /* divider */
 
 .myDivider {
@@ -34,14 +39,34 @@
     border-radius: 25px;
 }
 
-
-
-
-
-
 /* header */
 
 #myHeader a {
     color: #fff;
 }
+
+/* input */
+.mytxtarea {
+    height: 200px;
+    width: 100%;
+}
+
+.myLabel {
+    color: black;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.myInput::placeholder {
+    color: black;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.myInput {
+    border: none;
+    border-bottom: 1px solid grey;
+    border-radius: 0;
+}
+
 
